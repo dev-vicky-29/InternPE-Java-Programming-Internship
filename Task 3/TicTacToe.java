@@ -92,5 +92,4 @@ public class TicTacToe {
         }
         return true;
     }
-    sc.close();
 }
